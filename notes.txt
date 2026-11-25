@@ -1,0 +1,3 @@
+Лабораторна робота №1
+Тема: Робота із Git клієнтом та порталом GitHub
+Засвоєні команди: clone, init, remote, pull, branch, status, add, commit, log, push, switch, checkout.
